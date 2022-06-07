@@ -37,4 +37,4 @@ Sonatype OSS Index provides accurate vulnerability information for application d
   - Fortify Software Security Center
   - Kenna Security
   - ThreadFix
-- Leverage ChatOps (via notifications) to keep teams informed
+- Leverage [ChatOps](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide) (via notifications) to keep teams informed

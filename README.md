@@ -104,13 +104,18 @@ https://docs.dependencytrack.org/datasources/repositories/
 
 ## To Read
 
-- https://docs.dependencytrack.org/integrations/notifications/
-- https://docs.dependencytrack.org/integrations/rest-api/
-- https://docs.dependencytrack.org/integrations/badges/
+- [ ] https://docs.dependencytrack.org/integrations/notifications/
+- [ ] https://docs.dependencytrack.org/integrations/rest-api/
+- [ ] https://docs.dependencytrack.org/integrations/badges/
 
 
 
 ## FAQs
 
-https://docs.dependencytrack.org/FAQ/
-[Terminology]()
+- https://docs.dependencytrack.org/FAQ/
+- [Terminology](./Docs/Terminology.md)
+
+
+## Note 
+
+These are verbatim notes from https://docs.dependencytrack.org. Please visit the original documentation for more up-to date definitions.
